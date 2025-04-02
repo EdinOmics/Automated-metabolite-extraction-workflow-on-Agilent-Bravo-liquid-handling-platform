@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-16"?>
+<velocity11 file="Form_Data" version="1.0">
+  <Property name="UseGlobalContext" value="1" />
+  <Property name="RestoreDefaultsOnLoad" value="0" />
+  <Property name="ShowLogInFullScreen" value="1" />
+  <Property name="FormBackgroundColor" value="-1" />
+  <Object type="ToolboxLibrary.MainContainer, Toolbox, Version=13.1.11.1510, Culture=neutral, PublicKeyToken=null" name="mainContainer1" children="Controls">
+    <Object type="ToolboxLibrary.RunProtocolScript, Toolbox, Version=13.1.11.1510, Culture=neutral, PublicKeyToken=null" name="runProtocolScript1" children="Controls">
+      <Property name="BackColor">0, 255, 0</Property>
+      <Property name="Image">
+        <Binary>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</Binary>
+      </Property>
+      <Property name="Text">Start</Property>
+      <Property name="TextImageRelation">ImageBeforeText</Property>
+      <Property name="UseCompatibleTextRendering">True</Property>
+      <Property name="UseVisualStyleBackColor">False</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Font">Tahoma, 20pt</Property>
+      <Property name="ForeColor">0, 0, 0</Property>
+      <Property name="Location">177, 304</Property>
+      <Property name="Name">runProtocolScript1</Property>
+      <Property name="Size">120, 36</Property>
+      <Property name="TabIndex">4</Property>
+      <Parameter Name="Control name" Description="" Type="1" Value="runProtocolScript1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Icon" Description="Choose icon for this button" Type="9" Value="C:\Program Files (x86)\Agilent Technologies\VWorks\clipart\24b_start_icon_up.ico" ValueToDisplay="Image Files(*.jpg;*.png;*.bmp;*.ico)|*.jpg;*.png;*.bmp;*.ico||" Hide_if="" />
+      <Parameter Name="Caption" Description="The string to display in the button" Type="1" Value="Start" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Font size" Description="The point size of the font used to display text in this field" Type="8" Value="20" ValueToDisplay="" Hide_if="">
+        <Ranges>
+          <Range Value="1" />
+          <Range Value="72" />
+        </Ranges>
+      </Parameter>
+      <Parameter Name="Font color" Description="The color of the font used to display text in this field" Type="32" Value="0" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Background color" Description="The color of this button's background" Type="32" Value="65280" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Protocol file" Description="The protocol to be launched when this button is pressed" Type="9" Value="C:\VWorks Workspace\Metabolomics\Protocol File\Methods\Transfer to LC Vials.pro" ValueToDisplay="Protocol Files(*.pro)|*.pro||" Hide_if="" />
+      <Parameter Name="Number of times to run" Description="Run this protocol N times" Type="8" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Script for pre-run checks" Description="If not blank, this JavaScript will be run in the global context prior to running the protocol." Type="31" Value="" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="JavaScript variable for pre-run check result" Description="If the script is not blank, the protocol will only be run if this variable exists in the global context and its value is true." Type="1" Value="" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Enabled" Description="" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+    </Object>
+    <Object type="ToolboxLibrary.OperatorConsoleStatic, Toolbox, Version=13.1.11.1510, Culture=neutral, PublicKeyToken=null" name="operatorConsoleStatic3" children="Controls">
+      <Property name="BorderStyle">Fixed3D</Property>
+      <Property name="Text">Volume to transfer</Property>
+      <Property name="UseCompatibleTextRendering">True</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Font">Tahoma, 20pt</Property>
+      <Property name="ForeColor">0, 0, 0</Property>
+      <Property name="Location">177, 182</Property>
+      <Property name="Name">operatorConsoleStatic3</Property>
+      <Property name="Size">297, 42</Property>
+      <Property name="TabIndex">3</Property>
+      <Parameter Name="Control name" Description="" Type="1" Value="operatorConsoleStatic3" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="JavaScript variable" Description="The variable whose value is displayed in this field" Type="1" Value="" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Always use global context" Description="If checked, the variable above will always be retrieved from the Global context" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Default value" Description="The default value of the Javascript variable" Type="1" Value="" ValueToDisplay="" Hide_if="Variable(JavaScript variable) == Const(&quot;&quot;)" />
+      <Parameter Name="Display string" Description="The string to display in the static text control" Type="1" Value="Volume to transfer" ValueToDisplay="" Hide_if="Variable(JavaScript variable) != Const(&quot;&quot;)" />
+      <Parameter Name="Border" Description="If the static text control is to be drawn with a border around it" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Font size" Description="The point size of the font used to display text in this field" Type="8" Value="20" ValueToDisplay="" Hide_if="">
+        <Ranges>
+          <Range Value="1" />
+          <Range Value="72" />
+        </Ranges>
+      </Parameter>
+      <Parameter Name="Font color" Description="The color of the font used to display text in this field" Type="32" Value="0" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Enabled" Description="" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Value" Description="" Type="1" Value="Volume to transfer" ValueToDisplay="" Hide_if="" />
+    </Object>
+    <Object type="ToolboxLibrary.OperatorConsoleStatic, Toolbox, Version=13.1.11.1510, Culture=neutral, PublicKeyToken=null" name="operatorConsoleStatic2" children="Controls">
+      <Property name="BorderStyle">Fixed3D</Property>
+      <Property name="Text">ul</Property>
+      <Property name="UseCompatibleTextRendering">True</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Font">Tahoma, 15pt</Property>
+      <Property name="ForeColor">0, 0, 0</Property>
+      <Property name="Location">616, 193</Property>
+      <Property name="Name">operatorConsoleStatic2</Property>
+      <Property name="Size">35, 31</Property>
+      <Property name="TabIndex">2</Property>
+      <Parameter Name="Control name" Description="" Type="1" Value="operatorConsoleStatic2" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="JavaScript variable" Description="The variable whose value is displayed in this field" Type="1" Value="" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Always use global context" Description="If checked, the variable above will always be retrieved from the Global context" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Default value" Description="The default value of the Javascript variable" Type="1" Value="" ValueToDisplay="" Hide_if="Variable(JavaScript variable) == Const(&quot;&quot;)" />
+      <Parameter Name="Display string" Description="The string to display in the static text control" Type="1" Value="ul" ValueToDisplay="" Hide_if="Variable(JavaScript variable) != Const(&quot;&quot;)" />
+      <Parameter Name="Border" Description="If the static text control is to be drawn with a border around it" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Font size" Description="The point size of the font used to display text in this field" Type="8" Value="15" ValueToDisplay="" Hide_if="">
+        <Ranges>
+          <Range Value="1" />
+          <Range Value="72" />
+        </Ranges>
+      </Parameter>
+      <Parameter Name="Font color" Description="The color of the font used to display text in this field" Type="32" Value="0" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Enabled" Description="" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Value" Description="" Type="1" Value="ul" ValueToDisplay="" Hide_if="" />
+    </Object>
+    <Object type="ToolboxLibrary.OperatorConsoleDroplist, Toolbox, Version=13.1.11.1510, Culture=neutral, PublicKeyToken=null" name="operatorConsoleDroplist1" children="Controls">
+      <Property name="ForeColor">0, 0, 0</Property>
+      <Property name="Items">
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">30</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">40</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">50</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">60</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">70</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">80</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">90</Item>
+        <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">100</Item>
+      </Property>
+      <Property name="DropDownStyle">DropDownList</Property>
+      <Property name="FormattingEnabled">True</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Font">Tahoma, 20pt</Property>
+      <Property name="Location">489, 176</Property>
+      <Property name="Name">operatorConsoleDroplist1</Property>
+      <Property name="Size">121, 48</Property>
+      <Property name="TabIndex">1</Property>
+      <Parameter Name="Control name" Description="" Type="1" Value="operatorConsoleDroplist1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="JavaScript variable" Description="The variable whose value is displayed in this field" Type="1" Value="volume" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Always use global context" Description="If checked, the variable above will always be retrieved from the Global context" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Items" Description=" Values for list. Use &quot;;&quot; to seperate" Type="1" Value="30;40;50;60;70;80;90;100" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Read only" Description="If checked, the operator may never alter the value of this field" Type="0" Value="0" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Data entry" Description="If checked, anything the operator enters in this field may be saved" Type="0" Value="1" ValueToDisplay="" Hide_if="Variable(Read only) != Const(0)" />
+      <Parameter Name="Default value" Description="The contents of this field when the form is initially displayed" Type="1" Value="50" ValueToDisplay="" Hide_if="Const(0)" />
+      <Parameter Name="Disable when running" Description="the droplist is disabled whenever a protocol is running" Type="0" Value="0" ValueToDisplay="" Hide_if="Variable(Read only) != Const(0)" />
+      <Parameter Name="Font size" Description="The point size of the font used to display text in this field" Type="8" Value="20" ValueToDisplay="" Hide_if="">
+        <Ranges>
+          <Range Value="1" />
+          <Range Value="72" />
+        </Ranges>
+      </Parameter>
+      <Parameter Name="Font color" Description="The color of the font used to display text in this field" Type="32" Value="0" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Enabled" Description="" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Value" Description="" Type="1" Value="50" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Item selections variable" Description=" JavaScript variable that will hold the selections that appear in the droplist." Type="1" Value="30;40;50;60;70;80;90;100;" ValueToDisplay="" Hide_if="" />
+    </Object>
+    <Object type="ToolboxLibrary.OperatorConsoleStatic, Toolbox, Version=13.1.11.1510, Culture=neutral, PublicKeyToken=null" name="operatorConsoleStatic1" children="Controls">
+      <Property name="BorderStyle">Fixed3D</Property>
+      <Property name="Text">Aliquoting to Fresh Vials</Property>
+      <Property name="UseCompatibleTextRendering">True</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Font">Tahoma, 30pt</Property>
+      <Property name="ForeColor">50, 205, 50</Property>
+      <Property name="Location">177, 38</Property>
+      <Property name="Name">operatorConsoleStatic1</Property>
+      <Property name="Size">648, 77</Property>
+      <Property name="TabIndex">0</Property>
+      <Parameter Name="Control name" Description="" Type="1" Value="operatorConsoleStatic1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="JavaScript variable" Description="The variable whose value is displayed in this field" Type="1" Value="" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Always use global context" Description="If checked, the variable above will always be retrieved from the Global context" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Default value" Description="The default value of the Javascript variable" Type="1" Value="" ValueToDisplay="" Hide_if="Variable(JavaScript variable) == Const(&quot;&quot;)" />
+      <Parameter Name="Display string" Description="The string to display in the static text control" Type="1" Value="Aliquoting to Fresh Vials" ValueToDisplay="" Hide_if="Variable(JavaScript variable) != Const(&quot;&quot;)" />
+      <Parameter Name="Border" Description="If the static text control is to be drawn with a border around it" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Font size" Description="The point size of the font used to display text in this field" Type="8" Value="30" ValueToDisplay="" Hide_if="">
+        <Ranges>
+          <Range Value="1" />
+          <Range Value="72" />
+        </Ranges>
+      </Parameter>
+      <Parameter Name="Font color" Description="The color of the font used to display text in this field" Type="32" Value="3329330" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Enabled" Description="" Type="0" Value="1" ValueToDisplay="" Hide_if="" />
+      <Parameter Name="Value" Description="" Type="1" Value="Aliquoting to Fresh Vials" ValueToDisplay="" Hide_if="" />
+    </Object>
+    <Property name="DataBindings">
+      <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+    </Property>
+    <Property name="Name">mainContainer1</Property>
+    <Property name="Size">10000, 30000</Property>
+  </Object>
+</velocity11>
